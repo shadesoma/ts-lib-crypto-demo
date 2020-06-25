@@ -1,1 +1,1 @@
-# ts-lib-crypto-damo
+# ts-lib-crypto-demo
