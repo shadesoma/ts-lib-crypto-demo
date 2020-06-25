@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b3e8f6a0c3ea78f59e370349757aa274",
+    "revision": "023c11945872df9016632aeda7b35018",
     "url": "/ts-lib-crypto-demo/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ts-lib-crypto-demo/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "128464bd8a9b25063349",
+    "revision": "bb83458c37a7fc2ae836",
     "url": "/ts-lib-crypto-demo/static/css/main.acceb8cf.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ts-lib-crypto-demo/static/js/2.a2418dcf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "128464bd8a9b25063349",
-    "url": "/ts-lib-crypto-demo/static/js/main.d65ce723.chunk.js"
+    "revision": "bb83458c37a7fc2ae836",
+    "url": "/ts-lib-crypto-demo/static/js/main.10f8108c.chunk.js"
   },
   {
     "revision": "be8fbffb0160a396b6db",
