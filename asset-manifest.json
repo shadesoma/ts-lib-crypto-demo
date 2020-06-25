@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.acceb8cf.chunk.css",
-    "main.js": "/static/js/main.83463f52.chunk.js",
-    "main.js.map": "/static/js/main.83463f52.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d10dd644.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d10dd644.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.a2418dcf.chunk.js": "/static/js/2.a2418dcf.chunk.js",
-    "static/js/2.a2418dcf.chunk.js.map": "/static/js/2.a2418dcf.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.615408bb6b7b89d3009c33564801688b.js": "/precache-manifest.615408bb6b7b89d3009c33564801688b.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.acceb8cf.chunk.css.map": "/static/css/main.acceb8cf.chunk.css.map",
-    "static/js/2.a2418dcf.chunk.js.LICENSE.txt": "/static/js/2.a2418dcf.chunk.js.LICENSE.txt"
+    "main.css": "/ts-lib-crypto-demo/static/css/main.acceb8cf.chunk.css",
+    "main.js": "/ts-lib-crypto-demo/static/js/main.d65ce723.chunk.js",
+    "main.js.map": "/ts-lib-crypto-demo/static/js/main.d65ce723.chunk.js.map",
+    "runtime-main.js": "/ts-lib-crypto-demo/static/js/runtime-main.69a07e64.js",
+    "runtime-main.js.map": "/ts-lib-crypto-demo/static/js/runtime-main.69a07e64.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/ts-lib-crypto-demo/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.a2418dcf.chunk.js": "/ts-lib-crypto-demo/static/js/2.a2418dcf.chunk.js",
+    "static/js/2.a2418dcf.chunk.js.map": "/ts-lib-crypto-demo/static/js/2.a2418dcf.chunk.js.map",
+    "index.html": "/ts-lib-crypto-demo/index.html",
+    "precache-manifest.c8560d79f08dceed691e8d160dfaf0c8.js": "/ts-lib-crypto-demo/precache-manifest.c8560d79f08dceed691e8d160dfaf0c8.js",
+    "service-worker.js": "/ts-lib-crypto-demo/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/ts-lib-crypto-demo/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.acceb8cf.chunk.css.map": "/ts-lib-crypto-demo/static/css/main.acceb8cf.chunk.css.map",
+    "static/js/2.a2418dcf.chunk.js.LICENSE.txt": "/ts-lib-crypto-demo/static/js/2.a2418dcf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d10dd644.js",
+    "static/js/runtime-main.69a07e64.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.a2418dcf.chunk.js",
     "static/css/main.acceb8cf.chunk.css",
-    "static/js/main.83463f52.chunk.js"
+    "static/js/main.d65ce723.chunk.js"
   ]
 }
