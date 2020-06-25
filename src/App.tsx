@@ -27,7 +27,7 @@ function App() {
                 </>
                 }
                 <br/>
-                <h1 className="h3 mb-3 font-weight-normal">Веедите данные</h1>
+                <h1 className="h3 mb-3 font-weight-normal">Ведите данные</h1>
                 <input className="form-control" type="text" id="input" placeholder="Введите данные"
                        onChange={handleChange} value={inputData} name="login"/>
                 <br/>
